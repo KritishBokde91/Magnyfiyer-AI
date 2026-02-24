@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+pydantic
+httpx
+numpy
+faiss-cpu
+python-dotenv
+chromadb
+sentence-transformers
+tiktoken
+loguru
+aiofiles
+ddgs
+trafilatura
+selenium
+webdriver-manager
+beautifulsoup4

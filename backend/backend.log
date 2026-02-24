@@ -1,0 +1,23 @@
+nohup: ignoring input
+INFO:     Started server process [654568]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)
+2026-02-23 08:32:20.846 | INFO     | vector_store:create_vector_store:217 - Using FAISS vector store
+2026-02-23 08:32:20.875 | INFO     | vector_store:_load:76 - Loaded FAISS index with 7 memories, dim=1024
+2026-02-23 08:32:23.363 | INFO     | main:chat:187 - Retrieved 1 relevant memories for context
+INFO:     127.0.0.1:35390 - "POST /chat HTTP/1.1" 200 OK
+/home/Kritish/Development/AI_CHATBOT/ai_chatbot_desktop/backend/search_scraper.py:12: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  self.ddgs = DDGS()
+/usr/lib/python3.14/asyncio/threads.py:25: DeprecationWarning: 'asyncio.iscoroutinefunction' is deprecated and slated for removal in Python 3.16; use inspect.iscoroutinefunction() instead
+  return await loop.run_in_executor(None, func_call)
+2026-02-23 08:32:42.310 | INFO     | main:chat:187 - Retrieved 2 relevant memories for context
+INFO:     127.0.0.1:52500 - "POST /chat HTTP/1.1" 200 OK
+/home/Kritish/Development/AI_CHATBOT/ai_chatbot_desktop/backend/search_scraper.py:12: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  self.ddgs = DDGS()
+/usr/lib/python3.14/asyncio/threads.py:25: DeprecationWarning: 'asyncio.iscoroutinefunction' is deprecated and slated for removal in Python 3.16; use inspect.iscoroutinefunction() instead
+  return await loop.run_in_executor(None, func_call)
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [654568]

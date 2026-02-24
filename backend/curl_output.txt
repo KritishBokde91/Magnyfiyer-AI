@@ -1,0 +1,162 @@
+data: {"type": "status", "message": "\ud83d\udd0d Searching web for: 'What is the latest score for the Miami Heat game, and when did they last play?'..."}
+
+data: {"type": "status", "message": "\u2705 Found 0 results."}
+
+data: {"content": "It"}
+
+data: {"content": " seems"}
+
+data: {"content": " you"}
+
+data: {"content": "'re"}
+
+data: {"content": " looking"}
+
+data: {"content": " for"}
+
+data: {"content": " information"}
+
+data: {"content": " about"}
+
+data: {"content": " the"}
+
+data: {"content": " Miami"}
+
+data: {"content": " Heat"}
+
+data: {"content": " game"}
+
+data: {"content": "."}
+
+data: {"content": " Unfortunately"}
+
+data: {"content": ","}
+
+data: {"content": " I"}
+
+data: {"content": " don"}
+
+data: {"content": "'t"}
+
+data: {"content": " have"}
+
+data: {"content": " real"}
+
+data: {"content": "-time"}
+
+data: {"content": " data"}
+
+data: {"content": " access"}
+
+data: {"content": " to"}
+
+data: {"content": " provide"}
+
+data: {"content": " current"}
+
+data: {"content": " scores"}
+
+data: {"content": " or"}
+
+data: {"content": " game"}
+
+data: {"content": " dates"}
+
+data: {"content": "."}
+
+data: {"content": " However"}
+
+data: {"content": ","}
+
+data: {"content": " I"}
+
+data: {"content": " can"}
+
+data: {"content": " help"}
+
+data: {"content": " you"}
+
+data: {"content": " create"}
+
+data: {"content": " a"}
+
+data: {"content": " Flutter"}
+
+data: {"content": " application"}
+
+data: {"content": " that"}
+
+data: {"content": " fetch"}
+
+data: {"content": "es"}
+
+data: {"content": " this"}
+
+data: {"content": " information"}
+
+data: {"content": " programm"}
+
+data: {"content": "atically"}
+
+data: {"content": " using"}
+
+data: {"content": " APIs"}
+
+data: {"content": " like"}
+
+data: {"content": " ESPN"}
+
+data: {"content": " or"}
+
+data: {"content": " NBA"}
+
+data: {"content": "'s"}
+
+data: {"content": " official"}
+
+data: {"content": " API"}
+
+data: {"content": ".\n\n"}
+
+data: {"content": "Would"}
+
+data: {"content": " you"}
+
+data: {"content": " like"}
+
+data: {"content": " me"}
+
+data: {"content": " to"}
+
+data: {"content": " proceed"}
+
+data: {"content": " with"}
+
+data: {"content": " creating"}
+
+data: {"content": " a"}
+
+data: {"content": " Flutter"}
+
+data: {"content": " project"}
+
+data: {"content": " that"}
+
+data: {"content": " tracks"}
+
+data: {"content": " Miami"}
+
+data: {"content": " Heat"}
+
+data: {"content": " game"}
+
+data: {"content": " scores"}
+
+data: {"content": " and"}
+
+data: {"content": " schedules"}
+
+data: {"content": "?"}
+
+data: [DONE]
+
